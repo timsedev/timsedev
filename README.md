@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @timsedev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning to be full-stack Java developer
-- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me. head to my website: timothyse.com
